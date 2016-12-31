@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\AnagramFinder\AnagramFinder\bin\Debug\AnagramFinder.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\AnagramFinder\AnagramFinder\bin\Debug\AnagramFinder.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\AnagramFinder\AnagramFinder\bin\Debug\AnagramFinder.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\AnagramFinder\AnagramFinder\obj\Debug\AnagramFinder.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\AnagramFinder\AnagramFinder\obj\Debug\AnagramFinder.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\AnagramFinder\AnagramFinder\obj\Debug\AnagramFinder.pdb
